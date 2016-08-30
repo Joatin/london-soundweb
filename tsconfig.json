@@ -1,0 +1,12 @@
+{
+  "version": "1.6.2",
+  "compileOnSave": false,
+  "compilerOptions": {
+    "module": "commonjs",
+    "declaration": true,
+    "outDir": "dist/"
+  },
+  "files": [
+    "./src/soundweb.ts"
+  ]
+}
